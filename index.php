@@ -25,7 +25,7 @@
             <input type="text" class="form-control" placeholder="" name="parolaCensura">
         </div>
 
-        <button type="submit">INVIA</button>
+        <button type="submit"> INVIA </button>
     </form>
 </body>
 </html>
